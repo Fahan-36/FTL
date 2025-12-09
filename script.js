@@ -13,11 +13,11 @@ class HeroSection {
     }
 
     handleGetStarted() {
-        alert('🚀 Welcome to TechNova!');
+        alert('🎨 Welcome to my portfolio!');
     }
 
     handleLearnMore() {
-        alert('ℹ️ Learn more about TechNova.');
+        alert('📧 Let\'s connect! Email: farhan@example.com');
     }
 
 
