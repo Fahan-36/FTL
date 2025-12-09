@@ -13,11 +13,19 @@ class HeroSection {
     }
 
     handleGetStarted() {
+<<<<<<< HEAD
         alert('🎨 Welcome to my portfolio!');
     }
 
     handleLearnMore() {
         alert('📧 Let\'s connect! Email: farhan@example.com');
+=======
+        alert('🚀 Welcome — Pritthi Prokash Sarkar!');
+    }
+
+    handleLearnMore() {
+        alert('ℹ️ Learn more about Pritthi Prokash Sarkar.');
+>>>>>>> 20730a775992947843db802809a9a109d4086793
     }
 
 
